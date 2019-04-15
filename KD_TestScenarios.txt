@@ -1,0 +1,5 @@
+check the login screen
+check the home screen
+check the menu list
+check the tile
+check the tile details content

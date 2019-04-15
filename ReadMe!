@@ -1,0 +1,6 @@
+Step 1: Import project as a maven project
+Step 2: Run the appium server
+Step 3: Change the platform version(eg, 8.0 or 8.1) according to the Mobile device/emulator you are using in the "androidConfig.properties"
+Step 4: Install the app in the device and open it.
+Step 4: Run testcase using testng.
+Step 5: Run test on jenkins with kd_testing.xml file  
